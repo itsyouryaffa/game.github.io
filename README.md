@@ -1,2 +1,2 @@
-https://itsyouryaffa.github.io
+https://itsyouryaffa.github.io/itsyouryaffa/
 Hello world :)
