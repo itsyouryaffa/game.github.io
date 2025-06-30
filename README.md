@@ -1,2 +1,2 @@
-https://itsyouryaffa.github.io/game.github.io/vegetal
+https://itsyouryaffa.github.io/game.github.io
 Hello world :)
